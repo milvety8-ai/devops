@@ -1,0 +1,6 @@
+git log --oneline
+touch .gitignore файл для игнора логов
+
+*.log внутри все файлы
+git restore --staged error.log  убрали из гит отслеживания
+
